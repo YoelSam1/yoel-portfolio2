@@ -93,7 +93,7 @@ Programming Languages
 
 - HTML
 - CSS
-- jAVASCRIPT
+- Javascript
 - React
 - boostrap
 
