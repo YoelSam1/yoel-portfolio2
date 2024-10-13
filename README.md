@@ -23,12 +23,14 @@ Hello! I’m a Frontend Developer student at Noroff Online School. In this portf
 git clone https://github.com/YoelSam1/yoel-portfolio2.git
 
 ```
-2. command: `cd yoel-portfolio2`
-3. command: `npm install`
-4. command: `npm run build`
-5. command: `npm start`
+2. Navigate to the project directory: `cd yoel-portfolio2`
+3. Install dependencies: `npm install`
+4. Build the project: `npm run build`
+5. Start the development server: `npm start`
 
-2. Live demo Link:
+Once done with the above steps, the project should be able to run on http://localhost:3000.
+
+### The Portfolio Live demo Link:
 
 ```bash
 https://unique-cactus-816e3b.netlify.app/#projects
