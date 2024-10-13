@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Hi 👋, I'm Yoel Samson
+- Welcome to my GitHub profile!
 
-## Available Scripts
+![image](../Assets/images/Portfolio2-webpage.png)
 
-In the project directory, you can run:
+# Subtitle
 
-### `npm start`
+Frontend Developer Student | Showcasing my work from the first year as I embark on my final year.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Hello! I’m a Frontend Developer student at Noroff Online School. In this portfolio, I’m excited to showcase the projects I completed during my first year of study. These projects highlight my growth and the skills I've developed as I prepare for my final year. They reflect my dedication and creativity in exploring the fascinating world of web development.
 
-### `npm test`
+# Portfolio
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repo:
 
-### `npm run build`
+```bash
+git clone https://github.com/YoelSam1/Yoel-Portfolio1.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Live demo Link:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+https://splendid-daifuku-a10248.netlify.app/
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# My project
 
-### `npm run eject`
+Cross-Course Project an e-commerce website - Build Using HTML AND CSS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Github (https://github.com/Noroff-FEU-Assignments/cross-course-project-YoelSam1)
+- Live demo (https://calm-tanuki-e4dc43.netlify.app/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Semester Project 1 an Museum website - Build Using HTML AND CSS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Github (https://github.com/YoelSam1/yoel-semester-project-1)
+- Live demo (https://zesty-chebakia-194e8e.netlify.app/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Project Exam 1 about Flying Tips that are blog website - Build Using HTML AND CSS and Javascript, where the content of the blog post are Fetched as CMS (API) from wordpress.
 
-## Learn More
+- Github (https://github.com/Noroff-FEU-Assignments/project-exam-1-YoelSam1)
+- Live demo (https://velvety-sprite-01086c.netlify.app/)
+- wordpress (https://www.flyingtips.no/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Skills
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Programming Languages
 
-### Code Splitting
+- HTML
+- CSS
+- jAVASCRIPT
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Software
 
-### Analyzing the Bundle Size
+- Figma ( to Create a prototype in all sreen size)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Other
 
-### Making a Progressive Web App
+- Github
+- Netlify (to deploy the site on live demo)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Contact
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Email ( Yoelsamsom21@gmail.com)
