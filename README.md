@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+# Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Hi 👋, I'm Yoel Samson
+- Welcome to my GitHub profile!
 
-## Available Scripts
+![image](../Assets/images/Portfolio2-webpage.png)
 
-In the project directory, you can run:
+# Subtitle
 
-### `npm start`
+Frontend Developer Student | Showcasing my work from the first year as I embark on my final year.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Hello! I’m a Frontend Developer student at Noroff Online School. In this portfolio, I’m excited to showcase the projects I completed during my first year of study. These projects highlight my growth and the skills I've developed as I prepare for my final year. They reflect my dedication and creativity in exploring the fascinating world of web development.
 
-### `npm test`
+# Portfolio
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repo:
 
-### `npm run build`
+```bash
+git clone https://github.com/YoelSam1/yoel-portfolio2.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Live demo Link:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+https://unique-cactus-816e3b.netlify.app/#projects
+```
 
-### `npm run eject`
+# My project's
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Semester Project 2 an An auction site 
+  - Build Using Javascript, Bootstrap, SASS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Github Link:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/YoelSam1/Semester-Project-2
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
 
-## Learn More
+2. Live demo Link:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+https://semester-project-2-yoel.netlify.app/
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. JavaScript Frameworks CA an eCommerce site 
+  - Build Using React, Bootstrap
 
-### Code Splitting
+1. Github Link:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+git clone https://github.com/YoelSam1/Front-end-React-E-com
 
-### Analyzing the Bundle Size
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. Live demo Link:
 
-### Making a Progressive Web App
+```bash
+https://react-ca-yoel.netlify.app/
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+3. Project Exam 2 an An booking site 
+  - Build Using React, Bootstrap
 
-### Advanced Configuration
+1. Github Link:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+git clone https://github.com/YoelSam1/Yoel-projectexam2
 
-### Deployment
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+2. Live demo Link:
 
-### `npm run build` fails to minify
+```bash
+https://funny-sprinkles-8fcd40.netlify.app/
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Skills
+
+Programming Languages
+
+- HTML
+- CSS
+- jAVASCRIPT
+- React
+- boostrap
+
+Software
+
+- Figma ( to Create a prototype in all sreen size)
+
+Other
+
+- Github
+- Netlify (to deploy the site on live demo)
+
+# Contact
+
+- Email ( Yoelsamsom21@gmail.com)
