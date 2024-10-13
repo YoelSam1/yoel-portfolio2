@@ -31,7 +31,7 @@ https://unique-cactus-816e3b.netlify.app/#projects
 
 # My project's
 
-## Semester Project 2 an An auction site 
+#### Semester Project 2 an An auction site 
   - Build Using Javascript, Bootstrap, SASS
 
 1. Github Link:
@@ -47,7 +47,7 @@ git clone https://github.com/YoelSam1/Semester-Project-2
 https://semester-project-2-yoel.netlify.app/
 ```
 
-## JavaScript Frameworks CA an eCommerce site 
+#### JavaScript Frameworks CA an eCommerce site 
   - Build Using React, Bootstrap
 
 1. Github Link:
@@ -63,7 +63,7 @@ git clone https://github.com/YoelSam1/Front-end-React-E-com
 https://react-ca-yoel.netlify.app/
 ```
 
-## Project Exam 2 an An booking site 
+#### Project Exam 2 an An booking site 
   - Build Using React, Bootstrap
 
 1. Github Link:
