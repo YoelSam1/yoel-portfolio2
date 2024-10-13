@@ -15,7 +15,7 @@ Frontend Developer Student | Showcasing my work from the first year as I embark 
 
 Hello! I’m a Frontend Developer student at Noroff Online School. In this portfolio, I’m excited to showcase the projects I completed during my first year of study. These projects highlight my growth and the skills I've developed as I prepare for my final year. They reflect my dedication and creativity in exploring the fascinating world of web development.
 
-# Portfolio
+# How to Install Portfolio 
 
 1. Clone the repo:
 
@@ -23,6 +23,10 @@ Hello! I’m a Frontend Developer student at Noroff Online School. In this portf
 git clone https://github.com/YoelSam1/yoel-portfolio2.git
 
 ```
+2. command: `cd yoel-portfolio2`
+3. command: `npm install`
+4. command: `npm run build`
+5. command: `npm start`
 
 2. Live demo Link:
 
