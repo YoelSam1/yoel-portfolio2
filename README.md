@@ -3,7 +3,8 @@
 - Hi 👋, I'm Yoel Samson
 - Welcome to my GitHub profile!
 
-![image](../Assets/images/Portfolio2-webpage.png)
+![image](Assets/images/Portfolio2-webpage.png)
+
 
 # Subtitle
 
